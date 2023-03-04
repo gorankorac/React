@@ -1,0 +1,15 @@
+.item {
+
+  width: 75%;
+  height: 150px;
+  background-color: cadetblue;
+  color: white;
+
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
