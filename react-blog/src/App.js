@@ -2,7 +2,7 @@
 import './App.css';
 
 import { Header } from './components/Header/Header';
-import {Main} from './components/maincontent/Maincontent'
+import { Main } from './components/maincontent/Maincontent'
 
 function App() {
   return (
