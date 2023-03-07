@@ -1,0 +1,28 @@
+.main-ul {
+  text-align: left;
+}
+
+.main-ul > li {
+  padding-block: 8px;
+}
+
+.main-ul > li::marker {
+  font-size: 1.5rem;
+  color: aqua;
+}
+
+.main-h1 {
+  text-align: left;
+  padding-left: 25px;
+  margin: 0;
+}
+
+.main {
+  background-color: rgb(47, 45, 45);
+  padding: 57px 27px;
+  color: white;
+  background-image: url('./icons8-react-400.png');
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: center;
+}

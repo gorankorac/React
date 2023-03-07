@@ -24,22 +24,4 @@ nav {
   font-weight: 600;
 } 
 
-.main-ul {
-  text-align: left;
-}
 
-.main-ul > li {
-  padding-block: 8px;
-}
-
-.main-h1 {
-  text-align: left;
-  padding-left: 25px;
-  margin: 0;
-}
-
-.main {
-  background-color: rgb(47, 45, 45);
-  padding: 57px 27px;
-  color: white;
-}
