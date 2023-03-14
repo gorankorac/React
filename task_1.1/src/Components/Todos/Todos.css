@@ -1,0 +1,45 @@
+.frame {
+  
+  width: 75%;
+  height: 90px;
+  display: flex;
+  
+  margin: 0 auto; 
+  gap: 10px;
+  
+  background-color: white;
+  border: 5px;
+  border-color: black;
+  padding: px;
+  box-shadow: 5px 3px 5px #888888;
+  margin-bottom: 18px;
+  
+  
+}
+
+.photo {
+  border-radius: 40%;
+  height: 50px;
+  width: 55px;
+  position: relative;
+  padding: 10px;
+  
+  
+}
+
+.users {
+  margin-top: 10px;
+}
+
+.head {
+  
+display: inline;
+text-align: start;
+
+  
+}
+
+h4 {
+  margin: 0;
+  padding-top: 10px;
+}
