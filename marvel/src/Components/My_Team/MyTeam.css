@@ -1,0 +1,6 @@
+.Team {
+  background-color: blueviolet;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}

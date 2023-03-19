@@ -6,4 +6,5 @@ footer {
   display: flex;
   padding-left: 90px;
   padding-top: 10px;
+  font-size: smaller;
 }

@@ -1,15 +1,11 @@
-nav {
+.navi {
 
   background-color: lightcoral;
   color: white;
   width: 100%;
   height: 3rem;
+  display: flex;
+  padding-left: 20px;
+  padding-bottom: 30px;
      
-}
-
-h1 {
-    
- padding-top: 5px;  
- margin: 0px; 
-    
 }

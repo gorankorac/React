@@ -1,0 +1,6 @@
+.card {
+  width: 22rem;
+}
+.card-body {
+  justify-content: space-between;
+}
